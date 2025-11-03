@@ -1,0 +1,16 @@
+{
+  "name": "users_api",
+  "version": "1.0.0",
+  "description": "User API",
+  "license": "ISC",
+  "author": "JM",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2"
+  }
+}
